@@ -13,7 +13,7 @@ nick = 'mel0nbot'
 allowed_hosts = []
 irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-EST = ['melon', 'yano']
+EST = ['melon', 'yano', 'skasturi']
 CET = ['xy', 'sfan5']
 BST = ['Xack', 'Chiyo']
 tzList = [[EST, 'US/Eastern'], [CET, 'Europe/Berlin'], [BST, 'Europe/London']]
